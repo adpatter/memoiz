@@ -18,8 +18,8 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/faranalytics/memoiz.git"
-"Bug Tracker" = "https://github.com/faranalytics/memoiz/issues"
+"Homepage" = "https://github.com/adpatter/memoiz.git"
+"Bug Tracker" = "https://github.com/adpatter/memoiz/issues"
 
 [tool.hatch.version]
 path = "src/memoiz/__about__.py"
