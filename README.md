@@ -260,7 +260,7 @@ Excerpted from [Semantic Versioning 2.0.0](https://semver.org/):
 #### Clone the repository.
 
 ```bash
-git clone https://github.com/faranalytics/memoiz.git
+git clone https://github.com/adpatter/memoiz.git
 ```
 
 #### Change directory into the root of the repository.
