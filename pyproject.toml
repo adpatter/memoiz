@@ -23,3 +23,6 @@ classifiers = [
 
 [tool.hatch.version]
 path = "src/memoiz/__about__.py"
+
+[tool.pytest.ini_options]
+python_files = ["test.py", "test_*.py", "*_test.py"]
